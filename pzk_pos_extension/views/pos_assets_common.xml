@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+	<template id="point_of_sale.assets" name="point_of_sale assets">
+		<script src="/pzk_pos_extension/static/src/js/Screens/ReceiptScreen/CopyReceipt.js" type="text/javascript"/>
+	</template>
+</odoo>

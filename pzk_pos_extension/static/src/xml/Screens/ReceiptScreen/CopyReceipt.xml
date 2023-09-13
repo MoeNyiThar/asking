@@ -1,0 +1,10 @@
+<templates id="template">
+	<t t-name="CopyReceipt" owl="1">
+		<div class="pos-receipt">
+			<!-- Title -->
+			<div class="pos-receipt-title">
+				COPY RECEIPT
+			</div>
+		</div>
+	</t>
+</templates>
